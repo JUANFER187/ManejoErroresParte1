@@ -65,8 +65,13 @@ Prevención de fallos por malas entradas.
 
 
 
+
+
 ❌ Error por entrada inválida
 <img width="330" height="53" alt="imagen" src="https://github.com/user-attachments/assets/f5c39a90-f90f-4157-ba3d-dafbcba7a6e1" />
+
+
+
 
 
 
