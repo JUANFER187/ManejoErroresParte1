@@ -59,16 +59,13 @@ Prevención de fallos por malas entradas.
 ### ✔️ Entrada válida
 
 ![alt text](image-3.png)
-=======
-<img width="264" height="69" alt="imagen" src="https://github.com/user-attachments/assets/afd650e0-765d-4899-b759-9ab72114b95f" />
+
 
 
 
 ### ❌ Error por entrada inválida
 
 ![alt text](image-2.png)
-=======
-<img width="330" height="53" alt="imagen" src="https://github.com/user-attachments/assets/f5c39a90-f90f-4157-ba3d-dafbcba7a6e1" />
 
 
 
@@ -77,8 +74,7 @@ Prevención de fallos por malas entradas.
 ### ❌ Error por división entre cero
 
 ![alt text](image-1.png)
-=======
-<img width="385" height="69" alt="imagen" src="https://github.com/user-attachments/assets/f7f1c785-837f-49b4-b9b7-9135467d8993" />
+
 
 
 ## 📄 Conclusión
