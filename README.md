@@ -1,13 +1,11 @@
-###
- 🧮 Manejo de Errores y Excepciones en Python
+### 🧮 Manejo de Errores y Excepciones en Python
 
 
 
 Este programa implementa una función llamada divide\_num() que solicita dos números al usuario, realiza una división y maneja los errores más comunes usando try, except, else y finally.
 
 
-##
- 📌 Objetivo del programa
+## 📌 Objetivo del programa
 
 * Solicitar dos números al usuario.
 * Intentar dividirlos.
@@ -20,8 +18,7 @@ Este programa implementa una función llamada divide\_num() que solicita dos nú
 * Mostrar siempre un mensaje final indicando que el proceso terminó.
 
 
-##
- 🧠 ¿Qué demuestra este programa?
+## 🧠 ¿Qué demuestra este programa?
 
 * Uso correcto de tolerancia a fallos.
 * Uso de bloques:
@@ -39,15 +36,13 @@ Este programa implementa una función llamada divide\_num() que solicita dos nú
 Prevención de fallos por malas entradas.
 
 
-##
- 🧩 Código del programa
+## 🧩 Código del programa
 
 ![alt text](image.png)
 
 
 
-##
- ▶️ Cómo ejecutar el programa
+## ▶️ Cómo ejecutar el programa
 
 
 
@@ -60,10 +55,8 @@ Prevención de fallos por malas entradas.
 4. Ingresa los dos valores cuando se soliciten.
 
 
-##
- 🧪 Ejemplos de uso
-#
- ✔️ Entrada válida
+## 🧪 Ejemplos de uso
+# ✔️ Entrada válida
 
 ![alt text](image-3.png)
 =======
@@ -71,8 +64,7 @@ Prevención de fallos por malas entradas.
 
 
 
-#
- ❌ Error por entrada inválida
+# ❌ Error por entrada inválida
 
 ![alt text](image-2.png)
 =======
@@ -82,16 +74,14 @@ Prevención de fallos por malas entradas.
 
 
 
-#
- ❌ Error por división entre cero
+# ❌ Error por división entre cero
 
 ![alt text](image-1.png)
 =======
 <img width="385" height="69" alt="imagen" src="https://github.com/user-attachments/assets/f7f1c785-837f-49b4-b9b7-9135467d8993" />
 
 
-##
- 📄 Conclusión
+## 📄 Conclusión
 
 Este programa demuestra cómo construir código tolerante a fallos, asegurando que el sistema continúe funcionando aun cuando el usuario introduzca errores. Implementa los conceptos básicos y esenciales para el manejo seguro de excepciones en Python.
 
