@@ -1,4 +1,4 @@
-###
+#
 🧮 Manejo de Errores y Excepciones en Python
 
 
@@ -43,8 +43,7 @@ Prevención de fallos por malas entradas.
 🧩 Código del programa
 
 ![alt text](image.png)
-=======
-<img width="1418" height="1318" alt="imagen" src="https://github.com/user-attachments/assets/57f71858-7c60-4241-975c-ab18a7f70f53" />
+
 
 
 ##
