@@ -1,5 +1,5 @@
-#
-🧮 Manejo de Errores y Excepciones en Python
+###
+ 🧮 Manejo de Errores y Excepciones en Python
 
 
 
@@ -7,7 +7,7 @@ Este programa implementa una función llamada divide\_num() que solicita dos nú
 
 
 ##
-📌 Objetivo del programa
+ 📌 Objetivo del programa
 
 * Solicitar dos números al usuario.
 * Intentar dividirlos.
@@ -21,7 +21,7 @@ Este programa implementa una función llamada divide\_num() que solicita dos nú
 
 
 ##
-🧠 ¿Qué demuestra este programa?
+ 🧠 ¿Qué demuestra este programa?
 
 * Uso correcto de tolerancia a fallos.
 * Uso de bloques:
@@ -40,14 +40,14 @@ Prevención de fallos por malas entradas.
 
 
 ##
-🧩 Código del programa
+ 🧩 Código del programa
 
 ![alt text](image.png)
 
 
 
 ##
-▶️ Cómo ejecutar el programa
+ ▶️ Cómo ejecutar el programa
 
 
 
@@ -61,9 +61,9 @@ Prevención de fallos por malas entradas.
 
 
 ##
-🧪 Ejemplos de uso
+ 🧪 Ejemplos de uso
 #
-✔️ Entrada válida
+ ✔️ Entrada válida
 
 ![alt text](image-3.png)
 =======
@@ -72,7 +72,7 @@ Prevención de fallos por malas entradas.
 
 
 #
-❌ Error por entrada inválida
+ ❌ Error por entrada inválida
 
 ![alt text](image-2.png)
 =======
@@ -83,7 +83,7 @@ Prevención de fallos por malas entradas.
 
 
 #
-❌ Error por división entre cero
+ ❌ Error por división entre cero
 
 ![alt text](image-1.png)
 =======
@@ -91,7 +91,7 @@ Prevención de fallos por malas entradas.
 
 
 ##
-📄 Conclusión
+ 📄 Conclusión
 
 Este programa demuestra cómo construir código tolerante a fallos, asegurando que el sistema continúe funcionando aun cuando el usuario introduzca errores. Implementa los conceptos básicos y esenciales para el manejo seguro de excepciones en Python.
 
