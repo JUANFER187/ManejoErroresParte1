@@ -1,4 +1,4 @@
-### 🧮 Manejo de Errores y Excepciones en Python
+# 🧮 Manejo de Errores y Excepciones en Python
 
 
 
@@ -56,7 +56,7 @@ Prevención de fallos por malas entradas.
 
 
 ## 🧪 Ejemplos de uso
-# ✔️ Entrada válida
+### ✔️ Entrada válida
 
 ![alt text](image-3.png)
 =======
@@ -64,7 +64,7 @@ Prevención de fallos por malas entradas.
 
 
 
-# ❌ Error por entrada inválida
+### ❌ Error por entrada inválida
 
 ![alt text](image-2.png)
 =======
@@ -74,7 +74,7 @@ Prevención de fallos por malas entradas.
 
 
 
-# ❌ Error por división entre cero
+### ❌ Error por división entre cero
 
 ![alt text](image-1.png)
 =======
